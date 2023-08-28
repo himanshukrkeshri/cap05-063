@@ -16,3 +16,8 @@ else
 console.log("not prime")
 }
 }
+add new line
+12345
+6
+7
+
